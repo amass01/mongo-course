@@ -1,0 +1,24 @@
+{
+  "name": "mongo-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "expressjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amassarwi/mongo-course.git"
+  },
+  "author": "Amir Massarwi<amassarwi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amassarwi/mongo-course/issues"
+  },
+  "homepage": "https://github.com/amassarwi/mongo-course#readme"
+}
